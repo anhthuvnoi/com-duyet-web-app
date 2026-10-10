@@ -1,0 +1,315 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-07",
+  "description": "Cơ sở dữ liệu quy chuẩn & hướng dẫn từng bước (Step-by-step) cách mặc cổ phục Việt Nam",
+  "generalRules": [
+    {
+      "id": "accessory_rule",
+      "title": "Tuân thủ tính lịch sử của phụ kiện",
+      "content": "Việc phối phụ kiện (như mấn, khăn vấn, guốc mộc, trâm cài, quạt nan tre) phải tuân thủ tính thời đại và nguồn gốc lịch sử của trang phục. Không dùng tùy tiện mấn đội của triều đại này gắn với áo của triều đại khác.",
+      "severity": "high"
+    },
+    {
+      "id": "taboo_modern_solemn",
+      "title": "Kiêng kỵ khi tế lễ và chốn tôn nghiêm",
+      "content": "Tránh kết hợp tùy tiện các món đồ hiện đại (như giày sneaker hầm hố, kính râm, túi da streetwear) khi diện cổ phục đi dâng hương đền chùa, tế lễ, giỗ tổ hoặc đại lễ trang trọng. Hành động này làm lệch nếp văn hóa và mất đi tính tôn nghiêm của nghi lễ.",
+      "severity": "critical"
+    },
+    {
+      "id": "huu_nham_rule",
+      "title": "Quy tắc vạt chéo Hữu Nhậm",
+      "content": "Các loại áo vạt chéo (Giao Lĩnh, Đối Khâm) bắt buộc vạt áo bên trái phải đè lên vạt áo bên phải (Hữu Nhậm). Tuyệt đối không mặc vạt phải đè vạt trái (Tả Nhậm) vì đây là nếp cổ nhân dành cho người đã khuất.",
+      "severity": "critical"
+    },
+    {
+      "id": "form_rule",
+      "title": "Tôn trọng phom dáng tự nhiên của cổ phục",
+      "content": "Cổ phục Việt Nam đề cao vẻ đẹp thanh thoát, đoan trang, phom suông rộng thoải mái. Tuyệt đối không tự ý bóp eo, chít ngực quá sát người theo phom áo dài tân thời thế kỷ 20.",
+      "severity": "high"
+    }
+  ],
+  "guides": [
+    {
+      "id": "tu_than_nu",
+      "matchingKeys": ["tu_than_nu", "tu_than", "n_tuthan", "n_tuchan", "trad_outer_tu_than", "tứ thân", "áo tứ thân", "yếm đào"],
+      "name": "Áo Tứ Thân (Nữ)",
+      "dynasty": "Đồng bằng Bắc Bộ / Thế kỷ 18 - 19",
+      "gender": "nu",
+      "summary": "Trang phục dân gian kinh điển gồm 4 vạt áo, tượng trưng cho tứ thân phụ mẫu và đạo hiếu.",
+      "keyGoldenRule": "Bắt buộc phải mặc kèm yếm đào bên trong. Hai vạt trước buông lơi hoặc thắt nhẹ trước bụng.",
+      "taboo": "Tuyệt đối không khoác áo tứ thân mà không mặc yếm lót bên trong; không thắt nút vạt trước quá chặt gây nhăn nhúm lụa.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Mặc Yếm Đào bên trong",
+          "action": "Khoác yếm đào lụa lên người, buộc dải yếm trên sau gáy và buộc dải dưới quanh thắt lưng. Căn chỉnh mép yếm ôm vừa vặn bầu ngực, giữ vẻ kín đáo đoan trang.",
+          "culturalImportance": "Yếm đào là nội y bắt buộc không thể thiếu, vừa giữ nét e ấp duyên dáng vừa làm nền cho các lớp áo ngoài.",
+          "badge": "Bước 1 - Lớp lót (Bắt buộc)"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Mặc Váy Đúp lụa đen",
+          "action": "Luồn chân vào váy đụp lụa đen, kéo cạp váy lên ngang rốn và thắt chặt dải rút bên hông. Gấu váy buông dài chấm mắt cá chân, êm ái uyển chuyển khi bước.",
+          "culturalImportance": "Váy đụp đen dân gian giữ cho dáng đi khoan thai mộc mạc của phụ nữ châu thổ sông Hồng.",
+          "badge": "Bước 2 - Hạ y"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Khoác Áo Tứ Thân chính",
+          "action": "Khoác áo tứ thân lên vai. Hai vạt sau buông suông theo sống lưng; hai vạt trước buông lơi hai bên hoặc cầm hai vạt thắt nhẹ một mối trước bụng.",
+          "culturalImportance": "Bốn vạt áo tượng trưng cho tứ thân phụ mẫu (cha mẹ đẻ và cha mẹ chồng), vạt yếm bên trong tượng trưng cho sự ấp ủ chở che con cái.",
+          "badge": "Bước 3 - Áo ngoài"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Thắt Dải Lưng lụa ngũ sắc",
+          "action": "Quấn dải thắt lưng lụa mềm quanh eo, buộc nơ nhẹ nhàng và thả hai đầu dải buông rủ cùng vạt áo trước.",
+          "culturalImportance": "Dải thắt lưng tạo điểm nhấn sắc màu tươi tắn và làm tôn lên vòng eo thon thả của thiếu nữ.",
+          "badge": "Bước 4 - Đai eo"
+        },
+        {
+          "stepNumber": 5,
+          "title": "Hoàn thiện Khăn vấn & Guốc mộc",
+          "action": "Vấn khăn nhung đen quanh tóc (tóc độn đuôi gà), cầm nón quai thao hoặc nón ba tầm, xỏ chân vào đôi guốc mộc quai nhung truyền thống.",
+          "culturalImportance": "Đảm bảo diện mạo hoàn chỉnh 100% chuẩn nếp Kinh Bắc xưa, sẵn sàng dự hội xuân hay đi trẩy hội.",
+          "badge": "Bước 5 - Phụ kiện chuẩn"
+        }
+      ]
+    },
+    {
+      "id": "nhat_binh_nu",
+      "matchingKeys": ["nhat_binh_nu", "nhat_binh", "n_nhatbinh", "trad_outer_nhat_binh", "nhật bình", "áo nhật bình"],
+      "name": "Áo Nhật Bình (Nữ)",
+      "dynasty": "Triều Nguyễn (1802 - 1945)",
+      "gender": "nu",
+      "summary": "Phẩm phục cung đình triều Nguyễn với dải cổ chữ nhật trước ngực và viền ngũ sắc thủy ba tráng lệ.",
+      "keyGoldenRule": "Cần giữ phom dáng rộng, thoải mái, thả suông phẳng phiu; tuyệt đối không bóp eo hay may bó sát.",
+      "taboo": "Tránh đi giày thể thao sneaker khi mặc Nhật Bình đi tế lễ/đại lễ cung đình; tránh để cổ áo bị xộc xệch lệch trục tim.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Mặc Áo Trung Đơn lót trong",
+          "action": "Mặc áo trung đơn trắng hoặc áo tấc lót lụa mỏng có cổ đứng cao 3-4cm, cài cúc kín đáo che kín cổ và thân trên.",
+          "culturalImportance": "Áo trung đơn giữ cho lớp áo gấm bên ngoài không bị dính mồ hôi và tạo viền cổ trắng tinh khôi làm nổi bật cổ ngọc.",
+          "badge": "Bước 1 - Lớp lót"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Mặc Quần Lụa trắng ống suông rộng",
+          "action": "Mặc quần lụa trắng hoặc be ngà ống rộng, cạp cao ngang eo, chiều dài quần vừa chạm mu bàn chân.",
+          "culturalImportance": "Sắc trắng của quần lụa tạo sự tương phản trang nhã và tôn nghiêm với sắc áo rực rỡ của Nhật Bình.",
+          "badge": "Bước 2 - Hạ y"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Khoác Áo Nhật Bình chính",
+          "action": "Khoác áo Nhật Bình lên vai, căn chỉnh dải cổ chữ nhật trước ngực thật thẳng thắn ngay tim. Cài dải kim khánh hoặc cúc ngực cố định, để tà áo thả suông rộng phẳng phiu tự nhiên.",
+          "culturalImportance": "Hoa văn dải ngũ sắc thủy ba ở tay áo và viền cổ là biểu trưng uy quyền hoàng gia; phom rộng suông tạo phong thái ung dung quý phái.",
+          "badge": "Bước 3 - Áo chính"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Quấn Khăn Vành Dây hoặc đội Mấn",
+          "action": "Quấn khăn vành dây màu xanh lam hoặc vàng đồng nhiều vòng ngay ngắn trên đầu, cài trâm phượng hoặc hoa cài tóc tinh xảo.",
+          "culturalImportance": "Khăn vành dây nâng tầm diện mạo cung đình, giúp khuôn mặt thêm phần cao quý và đài các.",
+          "badge": "Bước 4 - Khăn đầu"
+        },
+        {
+          "stepNumber": 5,
+          "title": "Đeo Kiềng cổ & Đi Hài thêu cung đình",
+          "action": "Đeo kiềng vàng/bạc chạm hoa sen hoặc khánh ngọc trước ngực, chân đi hài thêu hoa văn cung đình mũi cong, tay cầm quạt lụa thêu.",
+          "culturalImportance": "Phụ kiện đồng bộ tôn nghiêm, giữ đúng lễ nghi đạo nhậm của triều đình Huế xưa.",
+          "badge": "Bước 5 - Phụ kiện lễ nghi"
+        }
+      ]
+    },
+    {
+      "id": "ngu_than_nu",
+      "matchingKeys": ["ngu_than_nu", "ngu_than", "n_nguthan", "trad_outer_ngu_than_nu", "ngũ thân", "ngũ thân nữ", "áo ngũ thân nữ", "n_aodai"],
+      "name": "Áo Ngũ Thân Tay Chẽn (Nữ)",
+      "dynasty": "Triều Nguyễn (Vua Minh Mạng định chế)",
+      "gender": "nu",
+      "summary": "Tiền thân kinh điển của áo dài Việt Nam với 5 thân áo, cài 5 cúc bên sườn phải tượng trưng cho đạo ngũ luân.",
+      "keyGoldenRule": "Form áo rộng vừa phải, phẳng phiu, tuyệt đối không bóp eo hay chít ben sát người như áo dài tân thời.",
+      "taboo": "Không mặc cổ áo quá trễ hay xẻ tà quá cao lộ eo; cài thiếu cúc hoặc cài ngược cúc sang sườn trái.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Mặc Áo Lót trong kín đáo",
+          "action": "Mặc áo lót cổ tròn hoặc áo cánh trắng mỏng bên trong, giữ cho thân hình kín đáo lịch sự.",
+          "culturalImportance": "Nền tảng của người phụ nữ đoan trang là trang phục nhiều lớp kín đáo nhưng thoáng mát.",
+          "badge": "Bước 1 - Lớp trong"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Mặc Quần Lụa trắng ống suông",
+          "action": "Mặc quần lụa trắng hoặc đen ống suông rộng, phẳng phiu không nhăn, chiều dài chạm mắt cá chân.",
+          "culturalImportance": "Ống quần rộng tạo bước đi nhẹ nhàng, dịu dàng đúng cốt cách tiểu thư gia giáo.",
+          "badge": "Bước 2 - Hạ y"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Khoác Áo Ngũ Thân & Cài đủ 5 cúc khuy",
+          "action": "Khoác áo, vắt thân áo con bên trong, đậy thân cái lên trên và cài lần lượt 5 cúc khuy bên sườn phải: 1 ở cổ, 1 ở xương quai xanh, 1 ở nách, 1 ở ngực và 1 ở hông.",
+          "culturalImportance": "5 hạt cúc khuy tượng trưng cho Ngũ Thường (Nhân, Nghĩa, Lễ, Trí, Tín) và Ngũ Luân đạo lý làm người.",
+          "badge": "Bước 3 - Cài cúc Hữu Nhậm"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Vấn Khăn Nhung Đen & Đeo Vòng Tay",
+          "action": "Vấn khăn nhung đen gọn gàng ôm quanh trán, đeo đôi vòng tay vàng hoặc ngọc bích ở cổ tay, khuyên tai ngọc thanh tú.",
+          "culturalImportance": "Tạo nên nét đẹp thuần hậu của người phụ nữ Tràng An thanh lịch.",
+          "badge": "Bước 4 - Khăn & Trang sức"
+        },
+        {
+          "stepNumber": 5,
+          "title": "Đi Guốc Mộc hoặc Giày vải thêu",
+          "action": "Đi đôi guốc mộc quai nhung hoặc giày vải thêu hoa, tay cầm quạt nan lụa hoặc túi gấm rút dây nhỏ nhắn.",
+          "culturalImportance": "Hoàn thiện set đồ thanh lịch, sẵn sàng dạo phố, chụp ảnh kỷ yếu hay thăm đền chùa.",
+          "badge": "Bước 5 - Giày & Đạo cụ"
+        }
+      ]
+    },
+    {
+      "id": "ao_tac_nam",
+      "matchingKeys": ["ao_tac_nam", "ao_tac", "m_nguthan", "nam_nguthan", "trad_outer_ngu_than_nam", "ngu_than_nam", "áo tấc", "áo ngũ thân nam", "ngũ thân nam", "tay thụng", "m_aodai"],
+      "name": "Áo Tấc / Áo Tay Thụng (Nam)",
+      "dynasty": "Triều Nguyễn (Lễ phục truyền thống)",
+      "gender": "nam",
+      "summary": "Lễ phục trang trọng của nam giới triều Nguyễn với ống tay áo may thụng rất rộng và dài qua đầu ngón tay.",
+      "keyGoldenRule": "Do ống tay rất rộng, khi mặc cần giữ tư thế đĩnh đạc, trang nghiêm; hai tay thường chắp trước bụng hoặc buông xuôi tề chỉnh.",
+      "taboo": "Tránh khua khoang tay chân quá trớn hay chạy nhảy làm ống tay áo vung vẩy mất đi vẻ đạo mạo của bậc quân tử.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Mặc Áo Trung Đơn trắng cổ đứng",
+          "action": "Mặc áo trung đơn lót trắng bằng lụa mộc, cài khuy cổ đứng ngay ngắn cao 3.5cm, ve cổ áo phẳng phiu.",
+          "culturalImportance": "Viền cổ trắng lộ ra trên nền áo tấc sẫm màu thể hiện sự tinh tươm thanh sạch của nho sĩ.",
+          "badge": "Bước 1 - Lớp trong"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Mặc Quần Ống Sớ lụa trắng",
+          "action": "Mặc quần ống sớ trắng thụng rộng rãi, gấu quần buông dài phủ mắt cá chân, bước đi khoan thai đĩnh đạc.",
+          "culturalImportance": "Ống quần rộng tạo nên sự uy nghi, bệ vệ khi đứng hay ngồi tiếp khách quý.",
+          "badge": "Bước 2 - Hạ y"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Khoác Áo Tấc & Cài khuy ngọc sườn phải",
+          "action": "Khoác áo tấc lên người, cài đủ 5 khuy bên sườn phải. Thả ống tay rộng xuôi theo thân hình hoặc hai tay chắp trước bụng để hai ống tay áo rủ thành hình chữ nhật uy nghi.",
+          "culturalImportance": "Ống tay thụng rộng là biểu tượng của sự nhàn hạ, trí thức và lễ nghi tôn nghiêm bậc nhất.",
+          "badge": "Bước 3 - Khoác áo tấc"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Đội Khăn Đóng (Khăn Xếp) chữ Nhất",
+          "action": "Đội khăn đóng đen ngay ngắn trên trán, nếp gấp khăn tạo thành hình chữ Nhất ngang hoặc chữ Nhân cân đối giữa trán.",
+          "culturalImportance": "Khăn đóng thể hiện sự chính trực, đoan nghiêm và cốt cách nam nhi đầu đội trời chân đạp đất.",
+          "badge": "Bước 4 - Khăn đầu"
+        },
+        {
+          "stepNumber": 5,
+          "title": "Cầm Quạt Nan Tre & Đi Giày vải",
+          "action": "Hai tay nâng quạt nan tre hoặc quạt lụa đề thơ chữ Nôm, chân đi giày vải mộc hoặc hài nam cổ truyền.",
+          "culturalImportance": "Khí phách nho sĩ đĩnh đạc, trọn vẹn khuôn vàng thước ngọc khi tham dự lễ tiết quốc gia.",
+          "badge": "Bước 5 - Phong thái lễ nghi"
+        }
+      ]
+    },
+    {
+      "id": "giao_linh_nam",
+      "matchingKeys": ["giao_linh_nam", "m_giaulinh", "nam_giaolinh", "trad_outer_giao_linh_nam", "giao_linh", "áo giao lĩnh", "giao lĩnh nam"],
+      "name": "Áo Giao Lĩnh Cổ Chéo (Nam)",
+      "dynasty": "Thời Lý - Trần - Lê",
+      "gender": "nam",
+      "summary": "Trang phục vạt chéo cổ kính của tầng lớp sĩ tử, quan lại và quý tộc Đại Việt qua các triều đại hoàng kim.",
+      "keyGoldenRule": "Chú ý quan trọng sống còn: Nếp vạt chéo phải đè từ TRÁI SANG PHẢI (chuẩn Hữu Nhậm).",
+      "taboo": "Tuyệt đối không đắp vạt phải qua trái (Tả Nhậm); không buông thả cổ áo xộc xệch lộ ngực.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Mặc Áo Trung Đơn trắng cổ chữ Y",
+          "action": "Mặc áo lót trắng bên trong, mép cổ áo trung đơn cũng vắt chéo chữ Y tạo thành lớp viền trắng bên trong.",
+          "culturalImportance": "Tạo hiệu ứng cổ áo hai lớp trắng - màu tương phản thanh nhã tôn vinh gương mặt sáng ngời.",
+          "badge": "Bước 1 - Lớp trong"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Mặc Quần Ống Sớ lụa",
+          "action": "Mặc quần ống sớ lụa trắng hoặc be ngà, cạp quần buộc dải rút chắc chắn ngang bụng.",
+          "culturalImportance": "Giữ cho thân dưới thoải mái, tiện bề đi lại và tọa đàm thi phú.",
+          "badge": "Bước 2 - Hạ y"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Đắp Vạt Áo Giao Lĩnh: Trái Đè Phải (Hữu Nhậm)",
+          "action": "Kéo vạt áo bên phải vào sát sườn trái trước, sau đó đắp vạt áo bên trái phủ lên trên vạt phải (Hữu Nhậm). Cài dây buộc lụa ở mép sườn phải để cố định nếp vắt chéo.",
+          "culturalImportance": "Hữu Nhậm là then chốt văn hóa của người phương Nam, biểu trưng cho sự thuận lẽ tự nhiên và đạo sinh tồn.",
+          "badge": "Bước 3 - Khóa gen Hữu Nhậm"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Thắt Đai Lưng Vải bản to",
+          "action": "Vòng đai lưng vải to bản qua eo, thắt nút chắc chắn ở trước bụng hoặc bên hông, giắt mép đai gọn gàng.",
+          "culturalImportance": "Đai lưng giữ cho nếp vạt chéo phẳng phiu không bị xô lệch khi cúi đầu hành lễ.",
+          "badge": "Bước 4 - Đai lưng"
+        },
+        {
+          "stepNumber": 5,
+          "title": "Đội Mũ Tiêu Dao / Khăn đóng & Quạt",
+          "action": "Đội mũ tiêu dao hoặc quấn khăn vấn thư sinh, tay cầm quạt xếp nan tre, chân đi guốc mộc thanh bần.",
+          "culturalImportance": "Tái hiện trọn vẹn phong thái tiên phong đạo cốt của kẻ sĩ đất Việt thuở ngàn năm văn hiến.",
+          "badge": "Bước 5 - Khí phách nho sĩ"
+        }
+      ]
+    },
+    {
+      "id": "giao_linh_nu",
+      "matchingKeys": ["giao_linh_nu", "n_giaulinh", "trad_outer_giao_linh_nu", "giao lĩnh nữ", "áo giao lĩnh nữ"],
+      "name": "Áo Giao Lĩnh Cổ Chéo (Nữ)",
+      "dynasty": "Thời Lý - Trần - Lê Sơ",
+      "gender": "nu",
+      "summary": "Trang phục vạt chéo cổ kính của phụ nữ Đại Việt, cổ áo giao nhau chữ V thanh thoát tao nhã.",
+      "keyGoldenRule": "Nếp vạt chéo bắt buộc phải đè từ TRÁI SANG PHẢI (chuẩn Hữu Nhậm). Bắt buộc phải mặc kèm yếm đào hoặc áo lót bên trong.",
+      "taboo": "Tuyệt đối không đắp vạt phải qua trái (Tả Nhậm) vì đây là nếp dành cho người đã khuất; tránh mặc cổ xẻ quá sâu trễ nải.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Mặc Yếm Đào hoặc Áo Lót cánh trắng",
+          "action": "Khoác yếm đào lụa hoặc áo lót cánh trắng bên trong, buộc dây gọn gàng, viền mép yếm ôm vừa vặn bầu ngực.",
+          "culturalImportance": "Yếm lót giữ vẻ đẹp kín đáo e ấp và tôn nét duyên ngầm của thiếu nữ xưa.",
+          "badge": "Bước 1 - Lớp trong (Bắt buộc)"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Mặc Váy Đúp lụa dài hoặc Quần suông",
+          "action": "Luồn chân vào váy đụp lụa đen chấm gót chân hoặc quần lụa suông, thắt dải rút cạp váy chắc chắn.",
+          "culturalImportance": "Tạo bước đi khoan thai, uyển chuyển nhẹ nhàng đúng cốt cách nữ nhi gia giáo.",
+          "badge": "Bước 2 - Hạ y"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Đắp Vạt Áo Giao Lĩnh: Trái Đè Phải (Hữu Nhậm)",
+          "action": "Khoác áo giao lĩnh lên vai, khép vạt phải vào sát sườn trái trước, rồi đắp vạt trái phủ lên trên vạt phải (chuẩn Hữu Nhậm). Buộc dải lụa cố định nếp vạt chéo bên sườn phải.",
+          "culturalImportance": "Quy tắc Hữu Nhậm chuẩn mực gìn giữ vẻ đẹp đoan trang, thuận theo đạo tự nhiên của cổ nhân.",
+          "badge": "Bước 3 - Khóa gen Hữu Nhậm"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Thắt Bao Hàm / Đai Lưng Lụa bản mềm",
+          "action": "Quấn dải đai lưng lụa mềm quanh eo, thắt nơ nhẹ nhàng và thả hai đầu dải buông rủ cùng tà áo.",
+          "culturalImportance": "Định hình vòng eo thanh thoát và tạo điểm nhấn hài hòa cho tổng thể bộ y phục.",
+          "badge": "Bước 4 - Đai lưng"
+        },
+        {
+          "stepNumber": 5,
+          "title": "Vấn Khăn Nhung Đen & Cầm Quạt Xếp",
+          "action": "Vấn khăn nhung đen gọn gàng trên tóc, cài trâm ngọc, tay cầm quạt nan tre hoặc quạt lụa thêu hoa sen, chân đi guốc mộc.",
+          "culturalImportance": "Trọn vẹn phong thái tiểu thư đài các chốn kinh thành Thăng Long ngàn năm văn vật.",
+          "badge": "Bước 5 - Khí chất đài các"
+        }
+      ]
+    }
+  ]
+}

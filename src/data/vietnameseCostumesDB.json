@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "title": "Cơ Sở Dữ Liệu Cổ Phục Việt Nam & Phụ Kiện Remix Gen Z",
+    "version": "1.0.0",
+    "description": "Dữ liệu cấu trúc chuẩn xác về các hệ trang phục cổ truyền Việt Nam, lịch sử tiến trình Áo Dài, các mảnh ghép bóc tách (áo khoác, áo lót, yếm, váy/quần, phụ kiện) và quy chuẩn văn hóa.",
+    "source": "Tài liệu Tổng Hợp Cổ Phục Việt Nam & Ứng Dụng Văn Hóa Việt Nam 2024"
+  },
+  "aoDaiEvolution": [
+    {
+      "period": "circa 17th Century",
+      "name": "Áo Giao Lĩnh (The Progenitor)",
+      "description": "Dạng sơ khai lâu đời nhất, ảnh hưởng từ trang phục cổ phương Đông. Áo cổ chéo vạt đắp, tay thụng rộng, mặc cùng chân váy dài (không mặc quần).",
+      "features": ["Cross-collar closure", "Wide sleeves", "Worn over skirt, no trousers"]
+    },
+    {
+      "period": "circa 19th Century",
+      "name": "Áo Ngũ Thân (The Five-Panel Gown)",
+      "description": "Được quy chuẩn hóa cho mọi tầng lớp xã hội dưới triều Nguyễn. Gồm 5 thân áo ôm vừa vặn, định hình 5 đường may (tứ thân phụ mẫu và kỷ thân). Cài cúc bên mạn sườn phải, mặc cùng quần ống rộng.",
+      "features": ["Standardized for all social classes", "Fitted bodice, five seams for structure", "Buttoned on the right side", "Paired with wide trousers"]
+    },
+    {
+      "period": "1939",
+      "name": "Áo Dài Le Mur (Cát Tường)",
+      "description": "Khởi xướng bởi họa sĩ Cát Tường (Le Mur). Thiết kế ôm sát tôn dáng người phụ nữ, giao thoa ảnh hưởng phương Tây (tay bồng, cổ áo khoét mới). Đánh dấu bước chuyển biến mạnh mẽ sang thời trang hiện đại.",
+      "features": ["Pioneered by artist Cát Tường", "Highly fitted to the body", "Western influences (puffed sleeves, new neckline)", "Marked a shift towards modern fashion"]
+    },
+    {
+      "period": "1960s - 1970s",
+      "name": "Áo Dài Raglan (Modernized Cut)",
+      "description": "Quy chuẩn hóa áo dài hiện đại với kỹ thuật cắt tay raglan ráp từ cổ xéo xuống nách, giúp ngực và nách ôm khít phẳng phiu không nhăn nhúm. Cổ cao kín đáo, phom dáng kinh điển của tà áo dài Việt Nam.",
+      "features": ["Standardized for modern wear", "Raglan sleeve for better fit and comfort", "High collar, form-fitting", "The quintessential shape of modern Ao Dai"]
+    },
+    {
+      "period": "Present Day",
+      "name": "Áo Dài Hiện Đại / Cách Tân (Innovation)",
+      "description": "Sự giao hòa giữa truyền thống và thẩm mỹ đương đại của thế hệ Gen Z. Đa dạng kiểu cổ (cổ tròn, cổ yếm, cổ thuyền) và độ dài tay/tà. Ứng dụng chất liệu mới như ren, voan, tơ sống và phối cùng sneaker, túi cói.",
+      "features": ["A blend of tradition and contemporary design", "Varied necklines and sleeve lengths", "Use of new fabrics (lace, sheer materials)", "Creative adaptations and global influence"]
+    }
+  ],
+  "costumes": {
+    "nu": [
+      {
+        "id": "ao_giaulinh_nu",
+        "name": "Áo Giao Lĩnh Nữ",
+        "aliases": ["Áo đối cổ", "Áo cổ chéo"],
+        "historicalPeriod": "Thời Lý - Trần - Lê Sơ (Thế kỷ 11 - 18)",
+        "suitableOccasions": ["Sân khấu/Dạ hội", "Chụp ảnh cổ phong", "Sự kiện văn hóa"],
+        "culturalScore": 9.2,
+        "overview": "Là loại áo cổ lâu đời nhất của người Việt, có hai vạt áo đắp chéo trước ngực (vạt bên trái đè lên vạt bên phải).",
+        "layers": {
+          "outerwear": "Áo Giao Lĩnh (Áo khoác ngoài vạt chéo, tay rộng vừa hoặc tay thụng)",
+          "innerwear": "Áo Lót (Áo trong / Trung đơn trắng ngà)",
+          "bottom": "Váy / Xẫng (Chân váy xếp ly dài tha thướt)",
+          "waistband": "Thắt lưng / Đai ấn (Dải lụa bản mềm buộc cố định eo)",
+          "headwear": "Búi trâm cài tóc hoặc vấn tóc gọn gàng",
+          "footwear": "Guốc mộc cổ truyền hoặc giày búp bê tối giản",
+          "accessories": ["Vòng cổ trang sức", "Nón dù che nắng", "Quạt xếp", "Hoa cài đầu / Mấn"]
+        },
+        "stylingRules": {
+          "coreGene": "Cần chú ý nếp vạt chéo phải nằm đúng chiều (trái đè phải) theo truyền thống.",
+          "adaptation": "Khi cách tân, có thể kết hợp với chân váy dài hoặc quần suông để tạo sự thanh thoát.",
+          "taboos": "Tránh mặc váy quá ngắn làm mất đi nét trang nhã, đoan trang vốn có của trang phục."
+        }
+      },
+      {
+        "id": "ao_nguthan_nu",
+        "name": "Áo Ngũ Thân Nữ",
+        "aliases": ["Áo ngũ thân lập lĩnh", "Áo năm thân"],
+        "historicalPeriod": "Định chế thời Chúa Nguyễn Phúc Khoát & Triều Nguyễn (Thế kỷ 18 - 20)",
+        "suitableOccasions": ["Đi chùa/Đi di tích", "Lễ tết", "Nghi lễ gia đình"],
+        "culturalScore": 9.0,
+        "overview": "Gồm 5 thân áo (4 thân chính tượng trưng cho tứ thân phụ mẫu và 1 thân con bên trong tượng trưng cho người mặc). Thiết kế ôm vừa vặn cơ thể, tôn lên vóc dáng thanh lịch, kín đáo của phụ nữ Việt.",
+        "layers": {
+          "outerwear": "Thân áo ngũ thân cài 5 khuy bên sườn phải (Hữu Nhậm)",
+          "innerwear": "Áo lót cánh trắng / Trung đơn cổ đứng thấp",
+          "bottom": "Quần lụa ống sớ (Quần trắng hoặc đen suông dài chấm gót)",
+          "fasteners": "5 Nút áo / Khuy áo (Kim loại hoặc ngọc/gỗ tượng trưng cho Ngũ Luân & Ngũ Thường)",
+          "headwear": "Khăn đóng (mấn) nhỏ ôm đầu",
+          "footwear": "Giày vải hoặc guốc mộc",
+          "accessories": ["Quạt cầm tay", "Túi gấm rút dây", "Chuỗi hạt ngọc"]
+        },
+        "stylingRules": {
+          "coreGene": "Cài cúc mạn sườn phải chuẩn Đạo Nhậm; giữ form suông nhẹ che khuyết điểm.",
+          "adaptation": "Có thể chọn chất liệu tơ tằm dệt xước, gấm sa mỏng nhẹ phối màu pastel hiện đại.",
+          "taboos": "Tránh bóp eo quá sát bằng các chất liệu co giãn mạnh hiện đại vì sẽ làm hỏng form dáng chuẩn mực của tà áo ngũ thân."
+        }
+      },
+      {
+        "id": "ao_tuchan_nu",
+        "name": "Áo Tứ Thân & Yếm Đào",
+        "aliases": ["Áo Mớ Ba Mớ Bảy", "Áo Bốn Vạt"],
+        "historicalPeriod": "Dân gian Bắc Bộ (Thời Lê - Nguyễn)",
+        "suitableOccasions": ["Đi học/Kỷ yếu", "Lễ hội dân gian", "Chụp ảnh đồng quê cổ kính"],
+        "culturalScore": 8.8,
+        "overview": "Gồm 4 tà áo rời (2 tà trước buộc thắt hoặc buông, 2 tà sau may liền sống lưng), mang đậm nét văn hóa truyền thống mộc mạc, duyên dáng của phụ nữ Bắc Bộ xưa.",
+        "layers": {
+          "outerwear": "Áo Mớ Ba (Áo tứ thân ngoài nhiều lớp chuyển màu nhuộm tự nhiên)",
+          "innerwear": "Yếm đào bên trong (Yếm cổ xẻ hoặc cổ tròn đính hạt/thêu hoa)",
+          "bottom": "Chân váy đầm đen tuyền dài chấm mắt cá",
+          "waistband": "Thắt lưng dải lụa (Bao hàm nhiều màu vàng, xanh, đỏ buộc thắt nút buông dài)",
+          "headwear": "Nón quai thao / Nón Nón Hoa Sen hoặc khăn mỏ quạ e ấp",
+          "footwear": "Guốc mộc hoặc dép quai nhung",
+          "accessories": ["Khăn tay lụa", "Chuỗi hạt cườm ngọc"]
+        },
+        "stylingRules": {
+          "coreGene": "Mảnh ghép yếm lót đào bên trong và hai vạt áo buộc eo cân đối.",
+          "adaptation": "Phối sneaker trắng trẻ trung, chụp kỷ yếu hoặc trình diễn văn nghệ.",
+          "taboos": "Tuyệt đối không được bỏ quên yếm đào bên trong vì đây là mảnh ghép cốt lõi tạo nên lớp lang và vẻ đẹp kín đáo mà gợi cảm của áo tứ thân."
+        }
+      },
+      {
+        "id": "ao_nhatbinh_nu",
+        "name": "Áo Nhật Bình",
+        "aliases": ["Áo Phi Phong Nhật Bình", "Cung phục triều Nguyễn"],
+        "historicalPeriod": "Triều Nguyễn (1802 - 1945)",
+        "suitableOccasions": ["Lễ cưới/Ăn hỏi", "Đại lễ trọng thể", "Chụp ảnh cung đình hoàng gia"],
+        "culturalScore": 9.5,
+        "overview": "Phẩm phục cung đình triều Nguyễn dành cho Hoàng hậu, Công chúa và Mệnh phụ. Nổi bật với hoa văn dải cổ áo trước ngực ghép lại tạo thành một ô hình chữ nhật lớn (Nhật Bình). Áo phom rộng suông, màu sắc lộng lẫy, dải ngũ sắc sóng nước Thủy Ba.",
+        "layers": {
+          "outerwear": "Áo Nhật Bình chính (Thêu hoa văn mây phượng, cổ vuông chữ nhật, tay viền dải ngũ sắc)",
+          "innerwear": "Áo tấc hoặc áo đối khâm trắng/hồng lót bên trong",
+          "bottom": "Quần lụa trắng ống rộng",
+          "headwear": "Khăn vành dây quấn nhiều vòng hoặc mấn cung đình cầu kỳ, trâm cài tóc đính ngọc",
+          "footwear": "Hài thêu hoa văn cung đình mũi cong",
+          "accessories": ["Kiềng cổ vàng/bạc chạm hoa sen", "Quạt lông / Quạt lụa thêu", "Khánh ngọc"]
+        },
+        "stylingRules": {
+          "coreGene": "Cổ áo hình chữ nhật bao quanh cổ và phom dáng đại lễ rộng suông uy nghi.",
+          "adaptation": "Phối đồ cưới hiện đại, chụp ảnh cưới phong cách Việt phục hoàng gia.",
+          "taboos": "Do mang tính chất trang nghiêm, hoàng tộc, khi Gen Z phối đi chụp kỷ yếu hoặc sự kiện lớn, cần chú ý chọn bối cảnh phù hợp và giữ nguyên phom dáng rộng suông vốn có của áo, tránh mặc dạo phố ăn vặt xô bồ."
+        }
+      },
+      {
+        "id": "ao_dai_cachtan_nu",
+        "name": "Áo Dài Cách Tân Gen Z",
+        "aliases": ["Modernized Ao Dai", "Áo dài cách tân đương đại"],
+        "historicalPeriod": "Thời hiện đại (Thế kỷ 21)",
+        "suitableOccasions": ["Dạo phố Tết", "Đi làm/Đi học", "Du lịch sống ảo"],
+        "culturalScore": 9.7,
+        "overview": "Biến tấu từ áo dài truyền thống với tà ngắn hơn, tay lỡ hoặc cách điệu, kết hợp màu sắc và họa tiết trẻ trung, dễ vận động cho cuộc sống năng động của thế hệ trẻ.",
+        "layers": {
+          "outerwear": "Áo dài tà lỡ / tà ngắn trên mắt cá, phối vải gấm, tơ sống, linen hoa nhí",
+          "bottom": "Quần suông lụa ống rộng hoặc chân váy xếp ly cách tân",
+          "headwear": "Băng đô nhung, mấn mini cách điệu hoặc kẹp tóc ngọc trai",
+          "footwear": "Giày sneaker trắng thể thao năng động, giày cao gót hoặc mule",
+          "accessories": ["Túi cói", "Kính mát thời trang", "Khăn lụa tơ tằm quàng cổ"]
+        },
+        "stylingRules": {
+          "coreGene": "Giữ cổ áo trang nhã (cổ tròn/cổ cao yến) và đường xẻ tà ngang eo duyên dáng.",
+          "adaptation": "Tự do kết hợp phụ kiện streetwear (sneaker, kính mát, túi tote).",
+          "taboos": "Dễ ứng dụng nhất hàng ngày nhưng cần tiết chế các chi tiết cách tân quá đà (như cắt xẻ ngực quá sâu, tà quá ngắn cũn cỡn hoặc phối phụ kiện lai tạp không rõ phong cách) để tránh làm mất đi hồn cốt truyền thống của áo dài."
+        }
+      }
+    ],
+    "nam": [
+      {
+        "id": "ao_giaulinh_nam",
+        "name": "Áo Giao Lĩnh Nam",
+        "aliases": ["Áo cổ chéo nam", "Đại Việt nho sinh phục"],
+        "historicalPeriod": "Thời Lý - Trần - Lê Sơ (Thế kỷ 11 - 18)",
+        "suitableOccasions": ["Đi chùa/Đi di tích", "Sân khấu/Dạ hội", "Chụp ảnh phong cách nho sĩ"],
+        "culturalScore": 9.1,
+        "overview": "Dạng áo cổ truyền lâu đời của nam giới Việt Nam từ các triều đại Lý, Trần, Lê. Vạt áo đắp chéo trước ngực, tay áo rộng vừa phải hoặc gọn gàng tùy theo mục đích sử dụng (sinh hoạt hay nghi lễ).",
+        "layers": {
+          "outerwear": "Thân áo giao lĩnh nam (Vạt chéo Hữu Nhậm, màu xanh chàm, nâu mộc, đen)",
+          "innerwear": "Áo trung đơn trắng lót bên trong",
+          "bottom": "Quần lá toạ (Quần lụa trắng ống sớ rộng thoải mái)",
+          "waistband": "Đai lưng vải bản lớn định hình vòng eo nho nhã",
+          "headwear": "Khăn vấn đầu truyền thống",
+          "footwear": "Giày vải mộc cổ truyền hoặc giày tây trơn",
+          "accessories": ["Quạt xếp nan giấy dó", "Túi vải mộc đeo hông"]
+        },
+        "stylingRules": {
+          "coreGene": "Vạt áo đắp chéo trước ngực đúng chiều, đai lưng thắt ngang bụng đĩnh đạc.",
+          "adaptation": "Khi phối theo phong cách Gen Z, cần chú ý chọn chất liệu vải đứng form (như đũi, lụa thô, gấm nam tính) để giữ được sự hào hoa, uy nghiêm.",
+          "taboos": "Tránh các loại vải quá mỏng hoặc bóng lộn làm mất đi nét tôn nghiêm, phong trần của nam nhi Đại Việt."
+        }
+      },
+      {
+        "id": "ao_nguthan_nam",
+        "name": "Áo Ngũ Thân Nam (Gồm Áo Tấc & Ngũ Thân Tay Chẽn)",
+        "aliases": ["Áo tấc nam", "Áo ngũ thân tay chật", "Quốc phục nam triều Nguyễn"],
+        "historicalPeriod": "Triều Nguyễn (1802 - 1945)",
+        "suitableOccasions": ["Lễ cưới/Ăn hỏi", "Đại lễ gia tộc", "Đi chùa/Đi di tích"],
+        "culturalScore": 9.5,
+        "overview": "Lễ phục truyền thống phổ biến của nam giới thời Nguyễn. Gồm hai dạng chính: Áo tấc (ngũ thân tay rộng) với tay áo rất thụng dùng trong các dịp đại lễ tế tự; và Áo ngũ thân tay chật (tay chẽn) gọn gàng hơn dùng trong sinh hoạt thường ngày và công vụ.",
+        "layers": {
+          "outerwear": "Thân áo ngũ thân nam (5 thân áo ghép nối, tay chẽn hoặc tay thụng rộng 1 tấc)",
+          "innerwear": "Áo cánh trắng mặc lót",
+          "bottom": "Quần ống sớ (Quần lụa trắng ống suông rộng)",
+          "fasteners": "5 Nút áo (Khuy áo cài bên sườn phải tượng trưng cho Ngũ Luân & Ngũ Thường)",
+          "headwear": "Khăn đóng nam truyền thống (Khăn vành cuốn hình chữ Nhất hoặc chữ Nhân)",
+          "footwear": "Giày vải đen hoặc giày tây lịch sự",
+          "accessories": ["Quạt xếp cầm tay", "Đồng hồ bỏ túi / Đồng hồ dây da", "Túi gấm"]
+        },
+        "stylingRules": {
+          "coreGene": "Cài đủ 5 cúc bên sườn phải; tư thế đĩnh đạc, khiêm tốn, khoan thai.",
+          "adaptation": "Phối cùng giày oxford, đồng hồ dây da cổ điển trong lễ cưới hỏi hiện đại.",
+          "taboos": "Nam giới khi mặc áo ngũ thân cần giữ tư thế đĩnh đạc, khoan thai. Tuyệt đối không phối áo ngũ thân nam với quần short hoặc giày thể thao hầm hố để tránh tạo sự kệch cỡm."
+        }
+      }
+    ]
+  },
+  "accessoriesCatalog": {
+    "coTruyenNu": [
+      { "id": "khan_doi_dau_nu", "name": "Khăn Đội Đầu", "desc": "Khăn vấn nhung đen hoặc khăn lươn quấn gọn gàng quanh đầu tôn nét phúc hậu." },
+      { "id": "tram_cai_toc", "name": "Trâm Cài Tóc", "desc": "Trâm vàng, bạc hoặc ngọc chạm khắc hoa mai, phượng vũ cài cố định búi tóc." },
+      { "id": "hoa_tai_co_truyen", "name": "Hoa Tai", "desc": "Hoa tai vàng hoặc ngọc bích chạm hoa sen, dáng tròn hoặc giọt nước cổ điển." },
+      { "id": "vong_co_co_truyen", "name": "Vòng Cổ", "desc": "Kiềng bạc, kiềng vàng hoặc chuỗi ngọc bội đeo trước ngực quý phái." },
+      { "id": "vong_tay_co_truyen", "name": "Vòng Tay", "desc": "Vòng tay vàng đúc chạm khắc hoa văn cổ hoặc vòng ngọc cẩm thạch." },
+      { "id": "tui_theu", "name": "Túi Thêu", "desc": "Túi gấm rút dây thêu hoa văn hoa sen, chữ Thọ, sóng nước bằng chỉ ngũ sắc." },
+      { "id": "guoc_moc_nu", "name": "Guốc Gộc / Guốc Mộc", "desc": "Guốc gỗ mộc gót cong truyền thống, quai bọc vải nhung đen hoặc gấm." }
+    ],
+    "coTruyenNam": [
+      { "id": "khan_van_nam", "name": "Khăn Vấn", "desc": "Khăn đóng cuốn nếp chuẩn mực, tạo hình chữ Nhân hoặc chữ Nhất đĩnh đạc." },
+      { "id": "mu_quan", "name": "Mũ Quan", "desc": "Mũ cánh chuồn, mũ tú tài dùng trong nghi lễ triều đình hoặc tế tự khoa cử." },
+      { "id": "dai_lung_co_truyen", "name": "Đai Lưng", "desc": "Đai lưng vải lụa hoặc đai da nạm ngọc thêu hoa văn định hình vóc dáng." },
+      { "id": "tui_vai_nam", "name": "Túi Vải", "desc": "Túi vải mộc thô mộc rút dây đựng quạt, trà hoặc khăn tay của nho sĩ." },
+      { "id": "quat_xep_nam", "name": "Quạt Xếp", "desc": "Quạt nan giấy dó hoặc nan lụa đề thơ chữ Nôm/chữ Hán thanh nhã." },
+      { "id": "giay_vai_nam", "name": "Giày Vải", "desc": "Giày vải đen cổ thấp hoặc hài đen truyền thống nhẹ êm chân." }
+    ],
+    "hienDaiNu": [
+      { "id": "khan_lua_to_tam", "name": "Khăn Lụa Tơ Tằm", "desc": "Khăn lụa mỏng nhẹ quàng cổ hoặc buộc tóc phong cách thanh lịch hiện đại." },
+      { "id": "kep_toc_hien_dai", "name": "Kẹp Tóc", "desc": "Kẹp tóc ngọc trai, kẹp kim loại ánh vàng lấp lánh phong cách tiểu thư." },
+      { "id": "khuyen_tai_hien_dai", "name": "Khuyên Tai", "desc": "Khuyên tai tròn tối giản hoặc đính đá ngọc trai thời thượng." },
+      { "id": "vong_co_hien_dai", "name": "Vòng Cổ Thanh Mảnh", "desc": "Dây chuyền vàng mặt nhỏ tinh tế tôn bờ vai thanh mảnh." },
+      { "id": "vong_tay_hien_dai", "name": "Vòng Tay Mix Match", "desc": "Lắc tay hạt ngọc kết hợp kim loại thanh thoát." },
+      { "id": "tui_xach_hien_dai", "name": "Túi Xách", "desc": "Túi xách da cầm tay cao cấp dáng mini thời trang." },
+      { "id": "kinh_mat_nu", "name": "Kính Mát", "desc": "Kính râm gọng đồi mồi sành điệu che nắng và sống ảo cá tính." },
+      { "id": "giay_cao_got", "name": "Giày Cao Gót", "desc": "Giày cao gót mũi nhọn màu nude hoặc đen tôn dáng thướt tha." },
+      { "id": "sneaker_nu", "name": "Sneaker Trắng", "desc": "Giày sneaker trắng thể thao năng động, tạo điểm nhấn remix Gen Z." }
+    ],
+    "hienDaiNam": [
+      { "id": "headwear_nam", "name": "Headwear (Mũ Beret/Len)", "desc": "Mũ beret cổ điển hoặc mũ beanie phong cách lãng tử phương Tây." },
+      { "id": "watch_nam", "name": "Watch (Đồng Hồ)", "desc": "Đồng hồ đeo tay mặt tròn cổ điển dây da bò lịch lãm nam tính." },
+      { "id": "bracelet_nam", "name": "Bracelet (Vòng Tay Da)", "desc": "Vòng tay da bện hoặc lắc kim loại tối giản bụi bặm cá tính." },
+      { "id": "crossbody_bag_nam", "name": "Cross-body Bag", "desc": "Túi da đeo chéo nhỏ gọn phong cách streetwear tiện dụng." },
+      { "id": "quat_hien_dai_nam", "name": "Quạt Gấp Nan Đen", "desc": "Quạt gấp gọn màu đen tuyền phong cách tối giản đương đại." },
+      { "id": "giay_tay_nam", "name": "Giày Tây / Sneaker Trắng", "desc": "Giày da Oxford lịch lãm hoặc giày sneaker trắng da trơn trẻ trung." }
+    ]
+  },
+  "mascotCom": {
+    "name": "Bé Cốm",
+    "persona": "Hạt cốm non Hà Nội đáng yêu, biểu tượng tinh hoa lúa gạo và nét đẹp hồn hậu Việt Nam",
+    "features": ["Hạt cốm tròn mũm mĩm", "Đội nón lá mini xanh lá sen", "Quàng khăn len ca-rô cổ điển", "Má hồng hào rạng rỡ"],
+    "expressions": [
+      "Cốm cười híp mắt hân hoan",
+      "Cốm nháy mắt lém lỉnh chào bạn",
+      "Cốm ôm đĩa cốm sen mời trầu",
+      "Cốm bối rối ngấn lệ khi thấy phối đồ phạm điều kiêng kỵ",
+      "Cốm tự hào giơ ngón tay cái chấm điểm mộc đỏ"
+    ]
+  }
+}
