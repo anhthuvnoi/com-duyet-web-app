@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-    <rect width="200" height="200" fill="#F8FAFC" rx="20"/>
-    <path d="M65 35 L135 35 L175 170 L145 170 L135 95 L135 170 L65 170 L65 95 L55 170 L25 170 Z" fill="#1E293B" stroke="#0F172A" stroke-width="3"/>
-    <polygon points="65,35 100,105 100,45" fill="#334155"/>
-    <polygon points="135,35 100,105 100,45" fill="#334155"/>
-    <circle cx="100" cy="125" r="3" fill="#94A3B8"/>
-    <circle cx="100" cy="145" r="3" fill="#94A3B8"/>
-    <text x="100" y="190" font-size="12" font-family="sans-serif" font-weight="bold" fill="#0F172A" text-anchor="middle">ÁO BLAZER ĐEN</text>
-  </svg>

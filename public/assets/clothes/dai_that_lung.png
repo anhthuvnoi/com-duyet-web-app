@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-    <rect width="200" height="200" fill="#FEF2F2" rx="20"/>
-    <rect x="25" y="70" width="150" height="30" rx="6" fill="#DC2626" stroke="#B91C1C" stroke-width="2"/>
-    <rect x="85" y="65" width="30" height="40" rx="4" fill="#FACC15" stroke="#CA8A04" stroke-width="2"/>
-    <path d="M75 100 L65 175 L85 175 L90 100 Z" fill="#2563EB"/>
-    <path d="M95 100 L95 175 L115 175 L110 100 Z" fill="#16A34A"/>
-    <path d="M115 100 L125 175 L140 175 L125 100 Z" fill="#EAB308"/>
-    <text x="100" y="192" font-size="11" font-family="sans-serif" font-weight="bold" fill="#991B1B" text-anchor="middle">THẮT LƯNG NGŨ SẮC</text>
-  </svg>

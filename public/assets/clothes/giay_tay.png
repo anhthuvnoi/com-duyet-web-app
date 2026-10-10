@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-    <rect width="200" height="200" fill="#F8FAFC" rx="20"/>
-    <path d="M30 115 Q65 95 110 105 L175 125 Q165 145 140 145 L35 145 Z" fill="#18181B" stroke="#09090B" stroke-width="3"/>
-    <rect x="35" y="145" width="30" height="15" rx="2" fill="#09090B"/>
-    <line x1="85" y1="105" x2="105" y2="105" stroke="#71717A" stroke-width="2"/>
-    <line x1="83" y1="112" x2="107" y2="112" stroke="#71717A" stroke-width="2"/>
-    <text x="100" y="185" font-size="12" font-family="sans-serif" font-weight="bold" fill="#09090B" text-anchor="middle">GIÀY TÂY OXFORD</text>
-  </svg>

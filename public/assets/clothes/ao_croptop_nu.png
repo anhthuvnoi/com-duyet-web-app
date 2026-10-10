@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-    <rect width="200" height="200" fill="#FDF2F8" rx="20"/>
-    <path d="M60 45 Q100 65 140 45 L175 110 L150 120 L135 90 L135 125 L65 125 L65 90 L50 120 L25 110 Z" fill="#FBCFE8" stroke="#DB2777" stroke-width="3"/>
-    <path d="M65 125 Q100 135 135 125" stroke="#BE185D" stroke-width="3" fill="none"/>
-    <text x="100" y="185" font-size="12" font-family="sans-serif" font-weight="bold" fill="#9D174D" text-anchor="middle">ÁO CROPTOP NỮ</text>
-  </svg>
