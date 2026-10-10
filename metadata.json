@@ -1,0 +1,8 @@
+{
+  "name": " PINKER123 test cuối cùng",
+  "description": "Ứng dụng phối đồ và khám phá cổ phục Việt Nam cùng linh vật Cốm 3 miền, phong cách Gen Z chuẩn nếp xưa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
