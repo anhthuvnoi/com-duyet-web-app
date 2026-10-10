@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#F1F5F9" rx="20"/>
+    <path d="M75 35 L125 35 L160 170 L110 170 L100 80 L90 170 L40 170 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <line x1="65" y1="45" x2="55" y2="165" stroke="#E2E8F0" stroke-width="2"/>
+    <line x1="135" y1="45" x2="145" y2="165" stroke="#E2E8F0" stroke-width="2"/>
+    <text x="100" y="190" font-size="11" font-family="sans-serif" font-weight="bold" fill="#475569" text-anchor="middle">QUẦN LỤA TRẮNG</text>
+  </svg>

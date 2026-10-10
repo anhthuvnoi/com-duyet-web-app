@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400" fill="none">
+  <!-- LAYER 70: KHĂN MỎ QUẠ BẮC BỘ (ĐÃ FIX TỌA ĐỘ TRÁN, LỘ 100% ĐÔI MẮT) -->
+  <g id="layer-acc-khan-mo-qua">
+    <path
+      d="M121 64
+         C116 48, 126 36, 150 36
+         C174 36, 184 48, 179 64
+         C168 57, 158 62, 150 64
+         C142 62, 132 57, 121 64 Z"
+      fill="#18181B"
+      stroke="#27272A"
+      stroke-width="1.2"
+    />
+    <path d="M150 64 L146 54 L150 42 L154 54 Z" fill="#262320" opacity="0.75" />
+    <line x1="150" y1="64" x2="150" y2="40" stroke="#3F3F46" stroke-width="1.2" stroke-linecap="round" />
+    <path d="M150 64 L132 57 L120 65" stroke="#3F3F46" stroke-width="1.4" fill="none" stroke-linecap="round" />
+    <path d="M150 64 L168 57 L180 65" stroke="#3F3F46" stroke-width="1.4" fill="none" stroke-linecap="round" />
+    <path d="M121 64 Q116 75 119 86 L123 84 Q120 74 123 66 Z" fill="#18181B" />
+    <path d="M179 64 Q184 75 181 86 L177 84 Q180 74 177 66 Z" fill="#18181B" />
+  </g>
+</svg>

@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400" fill="none">
+  <!-- 
+    =======================================================================
+    CỔ PHỤC VIỆT NAM - LAYER ÁO GIAO LĨNH NỮ 2D CHUẨN PHOM DÁNG (GEN Z REMIX)
+    Tác giả: 2D Game Fashion Artist
+    Định dạng: 2D Flat Vector Illustration (Soft Shading) - Nền Trong Suốt
+    Tỷ lệ Canvas: 300 x 400 (viewBox="0 0 300 400")
+    Đặc điểm phom dáng:
+      1. Chiều dài vạt áo: Kéo dài từ vai (y=118) xuống tận bắp chân dưới (y=346),
+         che gần hết cơ thể, chỉ để lộ một đoạn ống quần lụa trắng và giày.
+      2. Cổ áo Giao Lĩnh: Vạt chéo chữ Y đắp lên ngực chuẩn Hữu Nhậm (trái đè phải),
+         nẹp viền cổ may bản to phẳng phiu sắc nét, lộ nhẹ cổ trung đơn trắng ngà.
+      3. Tay áo thụng: Dài che kín cánh tay, ống tay rộng và chùng nhẹ cổ kính.
+      4. Dải lụa thắt eo: Bản lụa trắng to quấn quanh bụng, có 2 dải lụa dài rủ
+         buông thõng xuống tận qua đầu gối (y=324, qua gối y=285).
+      5. Fitting chuẩn: KHÔNG dính mặt hay tay chân búp bê, sẵn sàng làm layer Z-index.
+    =======================================================================
+  -->
+  <defs>
+    <!-- Gradient chuyển sắc lụa đen mềm mại -->
+    <linearGradient id="glFabricGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#141211" />
+      <stop offset="25%" stop-color="#1E1B19" />
+      <stop offset="50%" stop-color="#2B2724" />
+      <stop offset="75%" stop-color="#1E1B19" />
+      <stop offset="100%" stop-color="#141211" />
+    </linearGradient>
+
+    <!-- Gradient nẹp cổ giao lĩnh -->
+    <linearGradient id="glCollarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#36302C" />
+      <stop offset="50%" stop-color="#24201E" />
+      <stop offset="100%" stop-color="#161413" />
+    </linearGradient>
+
+    <!-- Gradient dải lụa trắng ngà thướt tha -->
+    <linearGradient id="glWhiteSashGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F1F5F9" />
+      <stop offset="35%" stop-color="#FFFFFF" />
+      <stop offset="70%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+
+    <!-- Bóng đổ nhẹ lớp lụa -->
+    <linearGradient id="glRibbonShadow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#CBD5E1" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <g id="layer-ao-giao-linh-chuan">
+    <!-- 1. CỔ ÁO LÓT TRUNG ĐƠN TRẮNG NGÀ BÊN TRONG -->
+    <g id="gl-inner-collar">
+      <path d="M142 104 L150 115 L158 104 Z" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.8" />
+      <path d="M144 104 L150 113 L156 104" stroke="#CBD5E1" stroke-width="0.6" fill="none" />
+    </g>
+
+    <!-- 2. TAY ÁO THỤNG RỘNG VÀ CHÙNG NHẸ (SLEEVES) -->
+    <g id="gl-sleeves">
+      <!-- Tay áo bên trái (Left Sleeve) -->
+      <path
+        d="M122 118
+           Q96 142 88 198
+           L102 203
+           Q116 182 126 154
+           L124 134 Z"
+        fill="#1A1817"
+        stroke="#272523"
+        stroke-width="1.2"
+      />
+      <!-- Nếp gấp chùng ống tay trái -->
+      <path d="M92 195 Q108 175 120 156" stroke="#2D2825" stroke-width="1.2" fill="none" />
+      <path d="M96 200 Q112 182 124 162" stroke="#12100F" stroke-width="1" fill="none" />
+      <path d="M88 198 L102 203" stroke="#38332F" stroke-width="1.8" stroke-linecap="round" />
+
+      <!-- Tay áo bên phải (Right Sleeve) -->
+      <path
+        d="M178 118
+           Q204 142 212 198
+           L198 203
+           Q184 182 174 154
+           L176 134 Z"
+        fill="#1A1817"
+        stroke="#272523"
+        stroke-width="1.2"
+      />
+      <!-- Nếp gấp chùng ống tay phải -->
+      <path d="M208 195 Q192 175 180 156" stroke="#2D2825" stroke-width="1.2" fill="none" />
+      <path d="M204 200 Q188 182 176 162" stroke="#12100F" stroke-width="1" fill="none" />
+      <path d="M212 198 L198 203" stroke="#38332F" stroke-width="1.8" stroke-linecap="round" />
+    </g>
+
+    <!-- 3. THÂN ÁO DÀNG DÀI THƯỚT THA ĐẾN BẮP CHÂN DƯỚI (LONG ROBE BODY) -->
+    <g id="gl-robe-body">
+      <!-- Thân chính kéo dài từ vai (y=118) xuống bắp chân dưới (y=346) -->
+      <path
+        d="M122 118
+           Q120 180 121 210
+           Q119 265 114 346
+           Q150 351 186 346
+           Q181 265 179 210
+           Q180 180 178 118 Z"
+        fill="url(#glFabricGrad)"
+        stroke="#272523"
+        stroke-width="1.2"
+      />
+
+      <!-- Nếp rủ vải mềm mại dọc theo thân áo (Soft fabric drape folds) -->
+      <path d="M134 196 Q130 265 125 346" stroke="#12100F" stroke-width="1.4" fill="none" />
+      <path d="M136 198 Q132 265 127 346" stroke="#2D2825" stroke-width="0.8" fill="none" />
+      <path d="M166 196 Q170 265 175 346" stroke="#12100F" stroke-width="1.4" fill="none" />
+      <path d="M164 198 Q168 265 173 346" stroke="#2D2825" stroke-width="0.8" fill="none" />
+      <path d="M150 200 Q152 270 150 348" stroke="#151312" stroke-width="1.2" fill="none" />
+
+      <!-- Bóng đổ nhẹ hai bên mạn sườn -->
+      <path d="M121 210 Q119 265 114 346 L120 346 Q124 265 126 210 Z" fill="#12100F" opacity="0.45" />
+      <path d="M179 210 Q181 265 186 346 L180 346 Q176 265 174 210 Z" fill="#12100F" opacity="0.45" />
+
+      <!-- Đường gấu áo viền may tinh tế -->
+      <path d="M114 346 Q150 351 186 346" stroke="#38332F" stroke-width="1.5" fill="none" />
+    </g>
+
+    <!-- 4. CỔ ÁO GIAO LĨNH VẠT CHÉO CHỮ Y BẢN TO (HỮU NHẬM: TRÁI ĐÈ PHẢI) -->
+    <g id="gl-lapel-collar">
+      <!-- Vạt dưới bên phải (chạy từ vai phải chéo qua nách trái) -->
+      <path
+        d="M168 117
+           L174 118
+           L136 172
+           L132 166 Z"
+        fill="#1E1B19"
+        stroke="#272523"
+        stroke-width="1"
+      />
+      <!-- Viền mép vạt dưới -->
+      <line x1="170" y1="117" x2="134" y2="169" stroke="#38332F" stroke-width="2.2" />
+
+      <!-- Vạt trên bên trái (HỮU NHẬM: chạy từ vai trái đè chéo sang sườn phải) -->
+      <path
+        d="M132 117
+           L126 118
+           L168 184
+           L174 178 Z"
+        fill="url(#glCollarGrad)"
+        stroke="#272523"
+        stroke-width="1"
+      />
+      <!-- Nẹp cổ may bản to phẳng phiu sắc nét -->
+      <line x1="128" y1="117" x2="172" y2="182" stroke="#3D3734" stroke-width="3" stroke-linecap="round" />
+      <!-- Đường chỉ viền nẹp cổ may tinh xảo -->
+      <line x1="126.5" y1="117.5" x2="170.5" y2="182.5" stroke="#524A45" stroke-width="0.8" />
+      <line x1="130" y1="116.5" x2="174" y2="181.5" stroke="#231F1D" stroke-width="0.8" />
+
+      <!-- Bóng đổ nhẹ dưới mép nẹp vạt chéo tạo khối 2D -->
+      <path d="M130 120 L174 186 L174 190 L130 124 Z" fill="#0C0A09" opacity="0.35" />
+    </g>
+
+    <!-- 5. ĐAI THẮT EO LỤA TRẮNG TO BẢN & 2 DẢI LỤA DÀI BUÔNG RỦ QUA ĐẦU GỐI (WHITE SILK SASH) -->
+    <g id="gl-silk-sash">
+      <!-- Bản đai lụa quấn ngang eo (To bản, phẳng phiu, mềm mại) -->
+      <path
+        d="M123 182
+           Q150 186 177 182
+           L178 198
+           Q150 202 122 198 Z"
+        fill="url(#glWhiteSashGrad)"
+        stroke="#E2E8F0"
+        stroke-width="1.2"
+      />
+      <!-- Các nếp gấp lụa ngang tự nhiên trên thân đai -->
+      <path d="M125 188 Q150 191 175 188" stroke="#CBD5E1" stroke-width="1" fill="none" />
+      <path d="M126 193 Q150 196 174 193" stroke="#CBD5E1" stroke-width="0.8" fill="none" stroke-dasharray="8 2" />
+      <!-- Bóng đổ nhẹ dưới mép đai lụa -->
+      <path d="M122 198 Q150 202 178 198 L178 201 Q150 205 122 201 Z" fill="#0C0A09" opacity="0.25" />
+
+      <!-- Nút thắt nơ lụa mềm mại chính giữa eo -->
+      <g id="gl-sash-knot">
+        <ellipse cx="150" cy="191" rx="5" ry="3.5" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" />
+        <ellipse cx="150" cy="191" rx="3" ry="2" fill="#F8FAFC" />
+        <path d="M147 189 Q150 192 153 189" stroke="#CBD5E1" stroke-width="0.9" fill="none" />
+      </g>
+
+      <!-- HAI DẢI LỤA DÀI BUÔNG THÕNG QUA ĐẦU GỐI (DÀI ĐẾN Y=324, ĐẦU GỐI TẠI Y=285) -->
+      <!-- Dải lụa thứ nhất (Bên trái): mềm mại, rủ thẳng xuống qua đầu gối -->
+      <path
+        d="M147 193
+           Q144 235 142 270
+           Q140 295 143 322
+           L149 320
+           Q147 295 148 270
+           Q150 235 151 193 Z"
+        fill="url(#glWhiteSashGrad)"
+        stroke="#E2E8F0"
+        stroke-width="1"
+      />
+      <!-- Nếp sóng mềm trên dải lụa trái -->
+      <path d="M146 196 Q144 240 144 285 Q143 305 146 320" stroke="#CBD5E1" stroke-width="0.8" fill="none" />
+      <line x1="143" y1="322" x2="149" y2="320" stroke="#CBD5E1" stroke-width="1" />
+
+      <!-- Dải lụa thứ hai (Bên phải): lượn nhẹ bay bổng, rủ xuống dài hơn qua đầu gối -->
+      <path
+        d="M151 193
+           Q154 235 156 270
+           Q158 298 155 326
+           L149 324
+           Q152 298 150 270
+           Q148 235 147 193 Z"
+        fill="#FFFFFF"
+        stroke="#E2E8F0"
+        stroke-width="1"
+      />
+      <!-- Nếp sóng mềm trên dải lụa phải -->
+      <path d="M150 196 Q153 240 153 285 Q154 308 152 325" stroke="#CBD5E1" stroke-width="0.8" fill="none" />
+      <line x1="149" y1="324" x2="155" y2="326" stroke="#CBD5E1" stroke-width="1" />
+
+      <!-- Bóng đổ nhẹ giữa hai dải lụa tạo chiều sâu lớp lang -->
+      <path d="M149 200 L150 270 L148 270 Z" fill="#CBD5E1" opacity="0.6" />
+    </g>
+  </g>
+</svg>

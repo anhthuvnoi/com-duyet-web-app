@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#EFF6FF" rx="20"/>
+    <path d="M65 80 Q100 25 135 80" stroke="#1D4ED8" stroke-width="6" fill="none"/>
+    <rect x="40" y="80" width="120" height="70" rx="12" fill="#3B82F6" stroke="#1D4ED8" stroke-width="3"/>
+    <path d="M100 105 Q105 100 110 105 Q115 110 100 125 Q85 110 90 105 Q95 100 100 105" fill="#EF4444"/>
+    <text x="100" y="185" font-size="12" font-family="sans-serif" font-weight="bold" fill="#1E40AF" text-anchor="middle">TÚI KẸP NÁCH Y2K</text>
+  </svg>

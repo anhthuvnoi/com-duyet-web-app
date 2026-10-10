@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#F8FAFC" rx="20"/>
+    <polygon points="100,30 175,130 100,165 25,130" fill="#0F172A" stroke="#CA8A04" stroke-width="3"/>
+    <circle cx="100" cy="100" r="16" fill="none" stroke="#EAB308" stroke-width="2"/>
+    <path d="M100 86 Q112 100 100 114 Q88 100 100 86" fill="#FACC15"/>
+    <text x="100" y="190" font-size="11" font-family="sans-serif" font-weight="bold" fill="#0F172A" text-anchor="middle">KHĂN MỎ QUẠ GẤM</text>
+  </svg>

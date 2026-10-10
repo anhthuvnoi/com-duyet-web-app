@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#F8FAFC" rx="20"/>
+    <path d="M75 40 L125 40 L165 175 Q100 185 35 175 Z" fill="#18181B" stroke="#27272A" stroke-width="3"/>
+    <line x1="85" y1="40" x2="65" y2="175" stroke="#3F3F46" stroke-width="2"/>
+    <line x1="100" y1="40" x2="100" y2="178" stroke="#3F3F46" stroke-width="2"/>
+    <line x1="115" y1="40" x2="135" y2="175" stroke="#3F3F46" stroke-width="2"/>
+    <rect x="70" y="36" width="60" height="8" rx="2" fill="#09090B"/>
+    <text x="100" y="192" font-size="12" font-family="sans-serif" font-weight="bold" fill="#27272A" text-anchor="middle">VÁY ĐỤP ĐEN</text>
+  </svg>

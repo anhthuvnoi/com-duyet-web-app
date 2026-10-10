@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400" fill="none">
+  <!-- 
+    =======================================================================
+    TRANG SỨC HOÀNG GIA - LAYER VÒNG TAY VÀNG 2D (CHỈNH SỬA TỌA ĐỘ CHUẨN)
+    Tác giả: Senior 2D Game Asset Artist
+    Canvas: 300 x 400 (Tọa độ tuyệt đối khớp 100% Base Body búp bê)
+    Đặc điểm:
+      - Dịch chuyển tọa độ vào sát cổ tay hẹp nhất của búp bê.
+      - Vòng tay trái đeo ôm sát tại (x=93.5, y=199) xoay góc -20 độ.
+      - Vòng tay phải đeo ôm sát tại (x=206.5, y=199) xoay góc +20 độ.
+      - Ánh kim vàng 24K rực rỡ, không trôi lơ lửng hay lệch ra ngoài.
+    =======================================================================
+  -->
+  <g id="layer-acc-vong-tay-vang">
+    <!-- Vòng tay trái (Cổ tay trái x=93.5, y=199) -->
+    <g id="bracelet-left" transform="rotate(-20 93.5 199)">
+      <ellipse cx="93.5" cy="199" rx="5.6" ry="2.8" stroke="#B45309" stroke-width="2.8" fill="none" />
+      <ellipse cx="93.5" cy="199" rx="5.6" ry="2.8" stroke="#F59E0B" stroke-width="2.0" fill="none" />
+      <ellipse cx="93.2" cy="198.6" rx="5.2" ry="2.2" stroke="#FEF08A" stroke-width="1.0" fill="none" />
+      <!-- Vòng xuyến phụ đôi -->
+      <ellipse cx="94.2" cy="196.2" rx="5.2" ry="2.4" stroke="#F59E0B" stroke-width="1.5" fill="none" opacity="0.9" />
+      <ellipse cx="94.0" cy="195.9" rx="4.8" ry="1.8" stroke="#FEF08A" stroke-width="0.8" fill="none" opacity="0.9" />
+    </g>
+
+    <!-- Vòng tay phải (Cổ tay phải x=206.5, y=199) -->
+    <g id="bracelet-right" transform="rotate(20 206.5 199)">
+      <ellipse cx="206.5" cy="199" rx="5.6" ry="2.8" stroke="#B45309" stroke-width="2.8" fill="none" />
+      <ellipse cx="206.5" cy="199" rx="5.6" ry="2.8" stroke="#F59E0B" stroke-width="2.0" fill="none" />
+      <ellipse cx="206.8" cy="198.6" rx="5.2" ry="2.2" stroke="#FEF08A" stroke-width="1.0" fill="none" />
+      <!-- Vòng xuyến phụ đôi -->
+      <ellipse cx="205.8" cy="196.2" rx="5.2" ry="2.4" stroke="#F59E0B" stroke-width="1.5" fill="none" opacity="0.9" />
+      <ellipse cx="206.0" cy="195.9" rx="4.8" ry="1.8" stroke="#FEF08A" stroke-width="0.8" fill="none" opacity="0.9" />
+    </g>
+  </g>
+</svg>

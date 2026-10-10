@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#F8FAFC" rx="20"/>
+    <path d="M70 40 L130 40 L160 170 L40 170 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <rect x="90" y="32" width="20" height="15" rx="3" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+    <text x="100" y="188" font-size="11" font-family="sans-serif" font-weight="bold" fill="#64748B" text-anchor="middle">ÁO TRONG TRẮNG</text>
+  </svg>

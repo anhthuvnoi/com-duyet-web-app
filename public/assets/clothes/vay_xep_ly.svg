@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#F8FAFC" rx="20"/>
+    <path d="M75 40 L125 40 L165 140 Q100 150 35 140 Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="3"/>
+    <line x1="55" y1="45" x2="50" y2="140" stroke="#94A3B8" stroke-width="2"/>
+    <line x1="75" y1="45" x2="75" y2="142" stroke="#94A3B8" stroke-width="2"/>
+    <line x1="95" y1="45" x2="100" y2="144" stroke="#94A3B8" stroke-width="2"/>
+    <line x1="115" y1="45" x2="125" y2="142" stroke="#94A3B8" stroke-width="2"/>
+    <line x1="135" y1="45" x2="150" y2="140" stroke="#94A3B8" stroke-width="2"/>
+    <rect x="70" y="38" width="60" height="6" fill="#0F172A" rx="2"/>
+    <text x="100" y="180" font-size="12" font-family="sans-serif" font-weight="bold" fill="#334155" text-anchor="middle">VÁY XẾP LY TENNIS</text>
+  </svg>

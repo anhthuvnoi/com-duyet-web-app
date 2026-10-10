@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#FEFCE8" rx="20"/>
+    <ellipse cx="100" cy="90" rx="80" ry="45" fill="#FEF08A" stroke="#CA8A04" stroke-width="4"/>
+    <ellipse cx="100" cy="90" rx="45" ry="25" fill="#FDE047" stroke="#A16207" stroke-width="2"/>
+    <circle cx="100" cy="90" r="12" fill="#EAB308"/>
+    <path d="M60 115 Q50 160 70 175" stroke="#DC2626" stroke-width="4" fill="none"/>
+    <path d="M140 115 Q150 160 130 175" stroke="#16A34A" stroke-width="4" fill="none"/>
+    <text x="100" y="190" font-size="12" font-family="sans-serif" font-weight="bold" fill="#854D0E" text-anchor="middle">NÓN QUAI THAO</text>
+  </svg>

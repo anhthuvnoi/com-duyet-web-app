@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400" fill="none">
+  <!-- 
+    =======================================================================
+    CỔ PHỤC VIỆT NAM - LAYER KHĂN MỎ QUẠ GẤM VÀNG 2D (GOLDEN YELLOW BROCADE)
+    Chất liệu: Gấm vàng rực quý phái, độ bóng óng ả, nếp gấp tối màu tạo chiều sâu
+    Fitting: Canvas 300x400 (Trục gốc 0,0 khớp tuyệt đối Base Body búp bê)
+    Đặc điểm:
+      - Đỉnh chóp mỏ quạ đặt tại X=150, Y=64 (sát mép tóc trán, tít trên cao).
+      - Lộ trọn vẹn 100% đôi mắt (CY=80) và lông mày (Y=68-70).
+      - Màu vàng rực rỡ nổi bật tuyệt đối trên mái tóc đen búp bê.
+    =======================================================================
+  -->
+  <defs>
+    <!-- Gradient gấm vàng rực quý phái -->
+    <linearGradient id="goldBrocadeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B45309" />
+      <stop offset="20%" stop-color="#D97706" />
+      <stop offset="50%" stop-color="#FBBF24" />
+      <stop offset="80%" stop-color="#EAB308" />
+      <stop offset="100%" stop-color="#B45309" />
+    </linearGradient>
+    <!-- Ánh sáng bóng nhẹ của gấm lụa cao cấp -->
+    <linearGradient id="goldBrocadeSheen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FEF08A" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#FDE047" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#B45309" stop-opacity="0.1" />
+    </linearGradient>
+    <!-- Gradient nếp gấp viền màu hổ phách sẫm tạo chiều sâu -->
+    <linearGradient id="amberFoldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#78350F" />
+      <stop offset="50%" stop-color="#92400E" />
+      <stop offset="100%" stop-color="#78350F" />
+    </linearGradient>
+  </defs>
+
+  <g id="layer-acc-khan-mo-qua-gam-vang">
+    <!-- 1. Vòm khăn gấm vàng rực phủ đỉnh đầu và hai bên thái dương -->
+    <path
+      d="M121 64
+         C116 48, 126 36, 150 36
+         C174 36, 184 48, 179 64
+         C168 57, 158 62, 150 64
+         C142 62, 132 57, 121 64 Z"
+      fill="url(#goldBrocadeGrad)"
+      stroke="#B45309"
+      stroke-width="1.2"
+    />
+
+    <!-- 2. Độ bóng óng ả của chất liệu gấm phía đỉnh đầu -->
+    <path
+      d="M127 54 C135 42, 165 42, 173 54 C163 48, 137 48, 127 54 Z"
+      fill="url(#goldBrocadeSheen)"
+    />
+
+    <!-- Họa tiết mây gấm chìm điểm xuyết sang trọng -->
+    <ellipse cx="140" cy="46" rx="4" ry="1.8" fill="#FDE047" opacity="0.6" />
+    <ellipse cx="160" cy="46" rx="4" ry="1.8" fill="#FDE047" opacity="0.6" />
+    <circle cx="150" cy="43" r="1.5" fill="#FEF08A" opacity="0.8" />
+
+    <!-- 3. Nếp gấp tối màu tam giác tạo chiều sâu mỏ quạ ở giữa trán (Y=64) -->
+    <path d="M150 64 L145 53 L150 42 L155 53 Z" fill="#78350F" opacity="0.8" />
+    <!-- Sống gập nếp dệt chỉ vàng lấp lánh ở chính giữa -->
+    <line x1="150" y1="64" x2="150" y2="40" stroke="#78350F" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="150" y1="64" x2="150" y2="40" stroke="#FEF08A" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="150" y1="64" x2="150" y2="48" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round" />
+
+    <!-- 4. Viền nẹp tối màu tạo chiều sâu khối sắc nét chạy sang hai bên thái dương -->
+    <path
+      d="M150 64 L132 57 L120 65"
+      stroke="url(#amberFoldGrad)"
+      stroke-width="2"
+      fill="none"
+      stroke-linecap="round"
+    />
+    <path
+      d="M150 64 L168 57 L180 65"
+      stroke="url(#amberFoldGrad)"
+      stroke-width="2"
+      fill="none"
+      stroke-linecap="round"
+    />
+
+    <!-- Chỉ vàng thêu hoa văn chạy viền song song -->
+    <path d="M149 62.5 L133 56 L121.5 63.5" stroke="#FEF08A" stroke-width="0.9" fill="none" />
+    <path d="M151 62.5 L167 56 L178.5 63.5" stroke="#FEF08A" stroke-width="0.9" fill="none" />
+
+    <!-- 5. Dải khăn gấm ôm vòng ra sau mang tai -->
+    <path d="M121 64 Q116 75 119 86 L123 84 Q120 74 123 66 Z" fill="#D97706" stroke="#92400E" stroke-width="0.8" />
+    <path d="M179 64 Q184 75 181 86 L177 84 Q180 74 177 66 Z" fill="#D97706" stroke="#92400E" stroke-width="0.8" />
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#F4F4F5" rx="20"/>
+    <path d="M35 85 L165 85" stroke="#18181B" stroke-width="5" stroke-linecap="round"/>
+    <rect x="40" y="85" width="50" height="35" rx="8" fill="#09090B" stroke="#27272A" stroke-width="2"/>
+    <rect x="110" y="85" width="50" height="35" rx="8" fill="#09090B" stroke="#27272A" stroke-width="2"/>
+    <path d="M90 92 L110 92" stroke="#18181B" stroke-width="4"/>
+    <text x="100" y="175" font-size="12" font-family="sans-serif" font-weight="bold" fill="#18181B" text-anchor="middle">KÍNH RÂM GEN Z</text>
+  </svg>

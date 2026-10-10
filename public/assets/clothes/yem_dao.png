@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#FFF1F2" rx="20"/>
+    <path d="M70 40 Q100 25 130 40 L165 170 L35 170 Z" fill="#991B1B" stroke="#B91C1C" stroke-width="3"/>
+    <path d="M85 45 Q100 58 115 45" fill="none" stroke="#FDE047" stroke-width="3"/>
+    <circle cx="100" cy="100" r="14" fill="#FACC15"/>
+    <path d="M100 80 Q105 100 100 120" stroke="#B45309" stroke-width="2"/>
+    <path d="M80 100 Q100 105 120 100" stroke="#B45309" stroke-width="2"/>
+    <text x="100" y="188" font-size="12" font-family="sans-serif" font-weight="bold" fill="#991B1B" text-anchor="middle">ÁO YẾM THÊU SEN</text>
+  </svg>

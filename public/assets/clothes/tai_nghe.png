@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#EEF2FF" rx="20"/>
+    <path d="M45 105 A55 55 0 0 1 155 105" stroke="#1E40AF" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <rect x="35" y="90" width="22" height="42" rx="10" fill="#1D4ED8" stroke="#1E3A8A" stroke-width="3"/>
+    <rect x="143" y="90" width="22" height="42" rx="10" fill="#1D4ED8" stroke="#1E3A8A" stroke-width="3"/>
+    <text x="100" y="180" font-size="12" font-family="sans-serif" font-weight="bold" fill="#1E3A8A" text-anchor="middle">TAI NGHE OVER-EAR</text>
+  </svg>

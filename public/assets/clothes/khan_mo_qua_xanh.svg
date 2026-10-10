@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400" fill="none">
+  <!-- 
+    =======================================================================
+    CỔ PHỤC VIỆT NAM - LAYER KHĂN MỎ QUẠ XANH CHÀM 2D (INDIGO BLUE)
+    Chất liệu: Vải mộc xanh chàm đậm truyền thống Bắc Bộ, dải viền sáng màu
+    Fitting: Canvas 300x400 (Trục gốc 0,0 khớp tuyệt đối Base Body búp bê)
+    Đặc điểm:
+      - Đỉnh chóp mỏ quạ đặt tại X=150, Y=64 (sát mép tóc trán, tít trên cao).
+      - Lộ trọn vẹn 100% đôi mắt (CY=80) và lông mày (Y=68-70).
+      - Nổi bật hoàn toàn trên mái tóc đen búp bê, không bị chìm màu.
+    =======================================================================
+  -->
+  <defs>
+    <!-- Gradient vải mộc xanh chàm đậm -->
+    <linearGradient id="indigoFabricGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="25%" stop-color="#1E3A8A" />
+      <stop offset="50%" stop-color="#2563EB" />
+      <stop offset="75%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <!-- Gradient dải viền lụa sáng màu -->
+    <linearGradient id="indigoTrimGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#93C5FD" />
+      <stop offset="50%" stop-color="#DBEAFE" />
+      <stop offset="100%" stop-color="#93C5FD" />
+    </linearGradient>
+  </defs>
+
+  <g id="layer-acc-khan-mo-qua-xanh">
+    <!-- 1. Vòm khăn trùm đầu màu xanh chàm đậm (ôm từ trán qua đỉnh đầu ra sau gáy) -->
+    <path
+      d="M121 64
+         C116 48, 126 36, 150 36
+         C174 36, 184 48, 179 64
+         C168 57, 158 62, 150 64
+         C142 62, 132 57, 121 64 Z"
+      fill="url(#indigoFabricGrad)"
+      stroke="#1D4ED8"
+      stroke-width="1.2"
+    />
+
+    <!-- 2. Nếp bóng vải dệt mộc mạc phía trên vòm đầu -->
+    <path
+      d="M126 56 C134 44, 166 44, 174 56 C164 50, 136 50, 126 56 Z"
+      fill="#3B82F6"
+      opacity="0.35"
+    />
+
+    <!-- 3. Nếp gập tam giác mỏ quạ đặc trưng ở chính giữa trán (Y=64 chúc nhọn xuống) -->
+    <path d="M150 64 L145 53 L150 42 L155 53 Z" fill="#172554" opacity="0.85" />
+    <!-- Sống gập nếp chính giữa có dải sáng điểm nhấn -->
+    <line x1="150" y1="64" x2="150" y2="40" stroke="#93C5FD" stroke-width="1.6" stroke-linecap="round" />
+    <line x1="150" y1="64" x2="150" y2="48" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round" />
+
+    <!-- 4. Dải viền nẹp sáng màu uốn lượn sang hai bên thái dương làm điểm nhấn -->
+    <path
+      d="M150 64 L132 57 L120 65"
+      stroke="url(#indigoTrimGrad)"
+      stroke-width="1.8"
+      fill="none"
+      stroke-linecap="round"
+    />
+    <path
+      d="M150 64 L168 57 L180 65"
+      stroke="url(#indigoTrimGrad)"
+      stroke-width="1.8"
+      fill="none"
+      stroke-linecap="round"
+    />
+
+    <!-- Đường chỉ thêu viền mảnh tinh xảo chạy song song -->
+    <path d="M148 62 L133 56 L122 63" stroke="#60A5FA" stroke-width="0.8" fill="none" opacity="0.8" />
+    <path d="M152 62 L167 56 L178 63" stroke="#60A5FA" stroke-width="0.8" fill="none" opacity="0.8" />
+
+    <!-- 5. Dải khăn xanh chàm ôm vòng ra sau mang tai -->
+    <path d="M121 64 Q116 75 119 86 L123 84 Q120 74 123 66 Z" fill="#1E3A8A" stroke="#1D4ED8" stroke-width="0.8" />
+    <path d="M179 64 Q184 75 181 86 L177 84 Q180 74 177 66 Z" fill="#1E3A8A" stroke="#1D4ED8" stroke-width="0.8" />
+  </g>
+</svg>

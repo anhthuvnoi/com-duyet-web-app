@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400" fill="none">
+  <!-- 
+    =======================================================================
+    PHỤ KIỆN HIỆN ĐẠI - LAYER TAI NGHE OVER-EAR 2D (CHỈNH SỬA TỌA ĐỘ CHUẨN)
+    Tác giả: Senior 2D Game Asset Artist
+    Canvas: 300 x 400 (Tọa độ tuyệt đối khớp 100% Base Body búp bê)
+    Đặc điểm:
+      - Xoay lật ngược (flip 180 độ) lên trên đỉnh đầu.
+      - Vòng headband cong vòng qua đỉnh đầu (y=38-42) ôm sát mái tóc.
+      - 2 Miếng ốp tai (earcups) áp vừa khít vào 2 bên tai búp bê (y=82, x=123 & x=177).
+    =======================================================================
+  -->
+  <g id="layer-acc-tai-nghe">
+    <!-- Vòng cung headband cong vòng lên trên đỉnh đầu -->
+    <path
+      d="M123 76 C123 38, 177 38, 177 76"
+      stroke="#1E293B"
+      stroke-width="5"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <!-- Lớp viền công nghệ màu xanh cobalt -->
+    <path
+      d="M124.5 75 C124.5 41, 175.5 41, 175.5 75"
+      stroke="#2563EB"
+      stroke-width="2.4"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <!-- Đệm cao su mềm trên đỉnh đầu -->
+    <path
+      d="M136 43 Q150 41 164 43"
+      stroke="#0F172A"
+      stroke-width="3.2"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <!-- Khớp nối trượt kim loại hai bên -->
+    <rect x="120" y="68" width="5.5" height="7" rx="1.5" fill="#94A3B8" stroke="#64748B" stroke-width="0.8" />
+    <rect x="174.5" y="68" width="5.5" height="7" rx="1.5" fill="#94A3B8" stroke="#64748B" stroke-width="0.8" />
+
+    <!-- Miếng ốp tai trái (Earcup) áp vừa khít vào tai trái búp bê x=123, y=82 -->
+    <g id="earcup-left">
+      <rect x="119" y="73" width="7" height="18" rx="3.5" fill="#0F172A" stroke="#334155" stroke-width="0.8" />
+      <rect x="115.5" y="74.5" width="5.5" height="15" rx="2.5" fill="#2563EB" stroke="#1D4ED8" stroke-width="1" />
+      <ellipse cx="118" cy="82" rx="1.8" ry="3.5" fill="#60A5FA" />
+    </g>
+
+    <!-- Miếng ốp tai phải (Earcup) áp vừa khít vào tai phải búp bê x=177, y=82 -->
+    <g id="earcup-right">
+      <rect x="174" y="73" width="7" height="18" rx="3.5" fill="#0F172A" stroke="#334155" stroke-width="0.8" />
+      <rect x="179" y="74.5" width="5.5" height="15" rx="2.5" fill="#2563EB" stroke="#1D4ED8" stroke-width="1" />
+      <ellipse cx="182" cy="82" rx="1.8" ry="3.5" fill="#60A5FA" />
+    </g>
+  </g>
+</svg>

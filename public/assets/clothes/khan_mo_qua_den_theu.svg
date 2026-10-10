@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400" fill="none">
+  <!-- LAYER KHĂN MỎ QUẠ GẤM THÊU VÀNG (ALIAS CHO KHAN_MO_QUA_DEN_THEU) -->
+  <defs>
+    <linearGradient id="goldBrocadeGradTheu" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B45309" />
+      <stop offset="20%" stop-color="#D97706" />
+      <stop offset="50%" stop-color="#FBBF24" />
+      <stop offset="80%" stop-color="#EAB308" />
+      <stop offset="100%" stop-color="#B45309" />
+    </linearGradient>
+    <linearGradient id="goldBrocadeSheenTheu" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FEF08A" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#FDE047" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#B45309" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="amberFoldGradTheu" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#78350F" />
+      <stop offset="50%" stop-color="#92400E" />
+      <stop offset="100%" stop-color="#78350F" />
+    </linearGradient>
+  </defs>
+
+  <g id="layer-acc-khan-mo-qua-gam-theu">
+    <path
+      d="M121 64
+         C116 48, 126 36, 150 36
+         C174 36, 184 48, 179 64
+         C168 57, 158 62, 150 64
+         C142 62, 132 57, 121 64 Z"
+      fill="url(#goldBrocadeGradTheu)"
+      stroke="#B45309"
+      stroke-width="1.2"
+    />
+    <path d="M127 54 C135 42, 165 42, 173 54 C163 48, 137 48, 127 54 Z" fill="url(#goldBrocadeSheenTheu)" />
+    <path d="M150 64 L145 53 L150 42 L155 53 Z" fill="#78350F" opacity="0.8" />
+    <line x1="150" y1="64" x2="150" y2="40" stroke="#78350F" stroke-width="2.2" stroke-linecap="round" />
+    <line x1="150" y1="64" x2="150" y2="40" stroke="#FEF08A" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="150" y1="64" x2="150" y2="48" stroke="#FFFFFF" stroke-width="0.8" stroke-linecap="round" />
+    <path d="M150 64 L132 57 L120 65" stroke="url(#amberFoldGradTheu)" stroke-width="2" fill="none" stroke-linecap="round" />
+    <path d="M150 64 L168 57 L180 65" stroke="url(#amberFoldGradTheu)" stroke-width="2" fill="none" stroke-linecap="round" />
+    <path d="M149 62.5 L133 56 L121.5 63.5" stroke="#FEF08A" stroke-width="0.9" fill="none" />
+    <path d="M151 62.5 L167 56 L178.5 63.5" stroke="#FEF08A" stroke-width="0.9" fill="none" />
+    <path d="M121 64 Q116 75 119 86 L123 84 Q120 74 123 66 Z" fill="#D97706" stroke="#92400E" stroke-width="0.8" />
+    <path d="M179 64 Q184 75 181 86 L177 84 Q180 74 177 66 Z" fill="#D97706" stroke="#92400E" stroke-width="0.8" />
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect width="200" height="200" fill="#ECFDF5" rx="20"/>
+    <path d="M70 40 Q100 25 130 40" stroke="#CA8A04" stroke-width="4" fill="none"/>
+    <rect x="55" y="55" width="90" height="15" rx="4" fill="#EAB308" stroke="#CA8A04" stroke-width="2"/>
+    <path d="M45 70 Q40 160 100 165 Q160 160 155 70 Z" fill="#0D9488" stroke="#0F766E" stroke-width="3"/>
+    <circle cx="100" cy="115" r="16" fill="#F43F5E"/>
+    <circle cx="100" cy="115" r="7" fill="#FDE047"/>
+    <text x="100" y="188" font-size="11" font-family="sans-serif" font-weight="bold" fill="#0F766E" text-anchor="middle">TÚI GẤM THÊU SEN</text>
+  </svg>
